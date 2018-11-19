@@ -4,6 +4,8 @@
 Our awesome team of speakers for the .NET Day RD 2018 are the following:
 * James Montemagno (Microsoft - Principal Program Manager for Mobile Developer Tools).
 * Jim Bennett (Microsoft - Senior Cloud Developer Advocate)
+
+    [GitHub repo: Azure photo sharer mobile app + Azure functions](https://github.com/jimbobbennett/AzurePhotoSharer)
 * Laurent Bugnion (Microsoft - Senior Cloud Developer Advocate)
 
     [Slides: Best Of Azure](https://onedrive.live.com/view.aspx?resid=FB0D8F97004979CD!835989&ithint=file%2cpptx&app=PowerPoint&authkey=!AFI-FV-pe7GkJlc)
